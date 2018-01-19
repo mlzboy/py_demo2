@@ -1,2 +1,3 @@
 test chrome with disable images loaded
 the ubuntu 16.04 has issue maybe the chrome version reason,DID NOT support prefs to control the chrome 
+this test is running on fedora 27
